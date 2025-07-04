@@ -12,7 +12,7 @@ const Header = () => {
                         className="translate-y-1"
                     />
                     <span className="font-ibm text-4xl font-extralight underline underline-offset-8">
-                        T.I. Services and Rentals
+                        T.I. Services & Rentals
                     </span>
                 </div>
 
