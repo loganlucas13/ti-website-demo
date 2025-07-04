@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100..700&display=swap');
+@import 'tailwindcss';
+
+.font-ibm {
+    font-family: 'IBM Plex Serif', serif;
+}
